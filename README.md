@@ -1,2 +1,1 @@
-# Prueba-2
-Prueba 2 de GitHub
+Prueba de github en remoto
